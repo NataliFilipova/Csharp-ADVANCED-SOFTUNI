@@ -1,0 +1,3 @@
+﻿  aa.cpp
+C:\Users\highf\source\repos\aa\aa\aa.cpp(30,20): warning C4101: 'k': unreferenced local variable
+  aa.vcxproj -> C:\Users\highf\source\repos\aa\Debug\aa.exe

@@ -1,0 +1,13 @@
+C:\Users\highf\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\netcoreapp3.1\ConsoleApp38.exe
+C:\Users\highf\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\netcoreapp3.1\ConsoleApp38.deps.json
+C:\Users\highf\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\netcoreapp3.1\ConsoleApp38.runtimeconfig.json
+C:\Users\highf\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\netcoreapp3.1\ConsoleApp38.runtimeconfig.dev.json
+C:\Users\highf\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\netcoreapp3.1\ConsoleApp38.dll
+C:\Users\highf\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\netcoreapp3.1\ConsoleApp38.pdb
+C:\Users\highf\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\netcoreapp3.1\ConsoleApp38.csprojAssemblyReference.cache
+C:\Users\highf\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\netcoreapp3.1\ConsoleApp38.AssemblyInfoInputs.cache
+C:\Users\highf\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\netcoreapp3.1\ConsoleApp38.AssemblyInfo.cs
+C:\Users\highf\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\netcoreapp3.1\ConsoleApp38.csproj.CoreCompileInputs.cache
+C:\Users\highf\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\netcoreapp3.1\ConsoleApp38.dll
+C:\Users\highf\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\netcoreapp3.1\ConsoleApp38.pdb
+C:\Users\highf\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\netcoreapp3.1\ConsoleApp38.genruntimeconfig.cache

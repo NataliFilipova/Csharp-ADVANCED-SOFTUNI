@@ -1,0 +1,13 @@
+C:\Users\highf\source\repos\zad2strem\zad2strem\bin\Debug\netcoreapp3.1\zad2strem.exe
+C:\Users\highf\source\repos\zad2strem\zad2strem\bin\Debug\netcoreapp3.1\zad2strem.deps.json
+C:\Users\highf\source\repos\zad2strem\zad2strem\bin\Debug\netcoreapp3.1\zad2strem.runtimeconfig.json
+C:\Users\highf\source\repos\zad2strem\zad2strem\bin\Debug\netcoreapp3.1\zad2strem.runtimeconfig.dev.json
+C:\Users\highf\source\repos\zad2strem\zad2strem\bin\Debug\netcoreapp3.1\zad2strem.dll
+C:\Users\highf\source\repos\zad2strem\zad2strem\bin\Debug\netcoreapp3.1\zad2strem.pdb
+C:\Users\highf\source\repos\zad2strem\zad2strem\obj\Debug\netcoreapp3.1\zad2strem.csprojAssemblyReference.cache
+C:\Users\highf\source\repos\zad2strem\zad2strem\obj\Debug\netcoreapp3.1\zad2strem.AssemblyInfoInputs.cache
+C:\Users\highf\source\repos\zad2strem\zad2strem\obj\Debug\netcoreapp3.1\zad2strem.AssemblyInfo.cs
+C:\Users\highf\source\repos\zad2strem\zad2strem\obj\Debug\netcoreapp3.1\zad2strem.csproj.CoreCompileInputs.cache
+C:\Users\highf\source\repos\zad2strem\zad2strem\obj\Debug\netcoreapp3.1\zad2strem.dll
+C:\Users\highf\source\repos\zad2strem\zad2strem\obj\Debug\netcoreapp3.1\zad2strem.pdb
+C:\Users\highf\source\repos\zad2strem\zad2strem\obj\Debug\netcoreapp3.1\zad2strem.genruntimeconfig.cache

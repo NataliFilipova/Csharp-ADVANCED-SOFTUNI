@@ -1,0 +1,13 @@
+C:\Users\highf\source\repos\09.Streams, Files and Directories\09.Streams, Files and Directories\bin\Debug\netcoreapp3.1\09.Streams, Files and Directories.exe
+C:\Users\highf\source\repos\09.Streams, Files and Directories\09.Streams, Files and Directories\bin\Debug\netcoreapp3.1\09.Streams, Files and Directories.deps.json
+C:\Users\highf\source\repos\09.Streams, Files and Directories\09.Streams, Files and Directories\bin\Debug\netcoreapp3.1\09.Streams, Files and Directories.runtimeconfig.json
+C:\Users\highf\source\repos\09.Streams, Files and Directories\09.Streams, Files and Directories\bin\Debug\netcoreapp3.1\09.Streams, Files and Directories.runtimeconfig.dev.json
+C:\Users\highf\source\repos\09.Streams, Files and Directories\09.Streams, Files and Directories\bin\Debug\netcoreapp3.1\09.Streams, Files and Directories.dll
+C:\Users\highf\source\repos\09.Streams, Files and Directories\09.Streams, Files and Directories\bin\Debug\netcoreapp3.1\09.Streams, Files and Directories.pdb
+C:\Users\highf\source\repos\09.Streams, Files and Directories\09.Streams, Files and Directories\obj\Debug\netcoreapp3.1\09.Streams, Files and Directories.csprojAssemblyReference.cache
+C:\Users\highf\source\repos\09.Streams, Files and Directories\09.Streams, Files and Directories\obj\Debug\netcoreapp3.1\09.Streams, Files and Directories.AssemblyInfoInputs.cache
+C:\Users\highf\source\repos\09.Streams, Files and Directories\09.Streams, Files and Directories\obj\Debug\netcoreapp3.1\09.Streams, Files and Directories.AssemblyInfo.cs
+C:\Users\highf\source\repos\09.Streams, Files and Directories\09.Streams, Files and Directories\obj\Debug\netcoreapp3.1\09.Streams, Files and Directories.csproj.CoreCompileInputs.cache
+C:\Users\highf\source\repos\09.Streams, Files and Directories\09.Streams, Files and Directories\obj\Debug\netcoreapp3.1\09.Streams, Files and Directories.dll
+C:\Users\highf\source\repos\09.Streams, Files and Directories\09.Streams, Files and Directories\obj\Debug\netcoreapp3.1\09.Streams, Files and Directories.pdb
+C:\Users\highf\source\repos\09.Streams, Files and Directories\09.Streams, Files and Directories\obj\Debug\netcoreapp3.1\09.Streams, Files and Directories.genruntimeconfig.cache
