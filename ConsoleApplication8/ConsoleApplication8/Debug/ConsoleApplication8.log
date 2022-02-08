@@ -1,6 +1,0 @@
-﻿  ConsoleApplication8.cpp
-C:\Users\highf\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(24,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-C:\Users\highf\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(37): message : see reference to class template instantiation 'ArrayVector<T>' being compiled
-C:\Users\highf\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(124,15): warning C4101: 'L': unreferenced local variable
-C:\Users\highf\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(124,12): warning C4101: 'K': unreferenced local variable
-  ConsoleApplication8.vcxproj -> C:\Users\highf\source\repos\ConsoleApplication8\Debug\ConsoleApplication8.exe

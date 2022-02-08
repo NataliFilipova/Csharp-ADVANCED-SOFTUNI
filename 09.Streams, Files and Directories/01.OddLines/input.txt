@@ -1,4 +1,0 @@
-red 0
-red 1
-red 2
-red 3
