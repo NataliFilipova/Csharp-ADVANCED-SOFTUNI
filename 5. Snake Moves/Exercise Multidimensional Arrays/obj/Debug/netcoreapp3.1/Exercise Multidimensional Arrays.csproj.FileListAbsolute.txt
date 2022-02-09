@@ -1,0 +1,13 @@
+C:\Users\highf\source\repos\5. Snake Moves\Exercise Multidimensional Arrays\bin\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.exe
+C:\Users\highf\source\repos\5. Snake Moves\Exercise Multidimensional Arrays\bin\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.deps.json
+C:\Users\highf\source\repos\5. Snake Moves\Exercise Multidimensional Arrays\bin\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.runtimeconfig.json
+C:\Users\highf\source\repos\5. Snake Moves\Exercise Multidimensional Arrays\bin\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.runtimeconfig.dev.json
+C:\Users\highf\source\repos\5. Snake Moves\Exercise Multidimensional Arrays\bin\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.dll
+C:\Users\highf\source\repos\5. Snake Moves\Exercise Multidimensional Arrays\bin\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.pdb
+C:\Users\highf\source\repos\5. Snake Moves\Exercise Multidimensional Arrays\obj\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.csprojAssemblyReference.cache
+C:\Users\highf\source\repos\5. Snake Moves\Exercise Multidimensional Arrays\obj\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.AssemblyInfoInputs.cache
+C:\Users\highf\source\repos\5. Snake Moves\Exercise Multidimensional Arrays\obj\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.AssemblyInfo.cs
+C:\Users\highf\source\repos\5. Snake Moves\Exercise Multidimensional Arrays\obj\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.csproj.CoreCompileInputs.cache
+C:\Users\highf\source\repos\5. Snake Moves\Exercise Multidimensional Arrays\obj\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.dll
+C:\Users\highf\source\repos\5. Snake Moves\Exercise Multidimensional Arrays\obj\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.pdb
+C:\Users\highf\source\repos\5. Snake Moves\Exercise Multidimensional Arrays\obj\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.genruntimeconfig.cache
