@@ -1,0 +1,13 @@
+C:\Users\highf\source\repos\Exam Preparation\The Race\bin\Debug\netcoreapp3.1\TheRace.exe
+C:\Users\highf\source\repos\Exam Preparation\The Race\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\highf\source\repos\Exam Preparation\The Race\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+C:\Users\highf\source\repos\Exam Preparation\The Race\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+C:\Users\highf\source\repos\Exam Preparation\The Race\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\highf\source\repos\Exam Preparation\The Race\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\highf\source\repos\Exam Preparation\The Race\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+C:\Users\highf\source\repos\Exam Preparation\The Race\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\highf\source\repos\Exam Preparation\The Race\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\highf\source\repos\Exam Preparation\The Race\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\highf\source\repos\Exam Preparation\The Race\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\highf\source\repos\Exam Preparation\The Race\obj\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\highf\source\repos\Exam Preparation\The Race\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache

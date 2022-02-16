@@ -1,0 +1,13 @@
+C:\Users\highf\source\repos\Exam Preparation\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.exe
+C:\Users\highf\source\repos\Exam Preparation\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.deps.json
+C:\Users\highf\source\repos\Exam Preparation\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.runtimeconfig.json
+C:\Users\highf\source\repos\Exam Preparation\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.runtimeconfig.dev.json
+C:\Users\highf\source\repos\Exam Preparation\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.dll
+C:\Users\highf\source\repos\Exam Preparation\01. Warm Winter\bin\Debug\netcoreapp3.1\01. Warm Winter.pdb
+C:\Users\highf\source\repos\Exam Preparation\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.csprojAssemblyReference.cache
+C:\Users\highf\source\repos\Exam Preparation\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.AssemblyInfoInputs.cache
+C:\Users\highf\source\repos\Exam Preparation\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.AssemblyInfo.cs
+C:\Users\highf\source\repos\Exam Preparation\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.csproj.CoreCompileInputs.cache
+C:\Users\highf\source\repos\Exam Preparation\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.dll
+C:\Users\highf\source\repos\Exam Preparation\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.pdb
+C:\Users\highf\source\repos\Exam Preparation\01. Warm Winter\obj\Debug\netcoreapp3.1\01. Warm Winter.genruntimeconfig.cache
