@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\highf\\source\\repos\\Exam Preparation\\03.The Race\\03.TheRace.csproj",
-      "projectName": "03.TheRace",
-      "projectPath": "C:\\Users\\highf\\source\\repos\\Exam Preparation\\03.The Race\\03.TheRace.csproj",
+      "projectUniqueName": "C:\\Users\\highf\\source\\repos\\Exam Preparation\\03.The Race\\03. TheRace.csproj",
+      "projectName": "03. TheRace",
+      "projectPath": "C:\\Users\\highf\\source\\repos\\Exam Preparation\\03.The Race\\03. TheRace.csproj",
       "packagesPath": "C:\\Users\\highf\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\highf\\source\\repos\\Exam Preparation\\03.The Race\\obj\\",
       "projectStyle": "PackageReference",
